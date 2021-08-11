@@ -1,0 +1,19 @@
+form{
+    background-color: rgb(193, 154, 230);
+   padding: 50px;
+   width: 15%;
+   color: white;
+   float: left;
+   text-align: center;
+   
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  table{
+      float: right;
+      width: 40%; 
+  }
